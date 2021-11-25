@@ -1,0 +1,28 @@
+.menu{
+background-color: white;
+display: flex;
+flex-direction: row;
+width: 100%;
+display: flex;
+justify-content: space-between;
+}
+
+
+#logo {
+border-radius: 60px;
+width: 100px;
+margin: 10px;	
+}
+
+
+.menu-elements{
+display: flex;
+flex-grow: 1;
+justify-content: center;
+gap: 50px ;
+align-items: center;
+}
+
+.menu-elements a{
+
+}

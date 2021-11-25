@@ -1,0 +1,11 @@
+.photos img{
+width: 250px;
+border-radius: 6px;
+}
+
+.photos {
+background-color: black;
+display: flex;
+align-content: space-around;
+justify-content: space-around;
+}
